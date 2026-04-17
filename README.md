@@ -19,7 +19,8 @@ gdi-cmos-dff-16nm/
 ├── models/
 │   └── ptm_16nm.txt           # PTM 16nm NMOS/PMOS SPICE models (Vdd = 0.7V)
 └── docs/
-    └── paper.pdf              # Full design paper with results & analysis
+    ├── paper.pdf              # Full design paper with results & analysis
+    └── presentation.pdf       # Project presentation slides
 ```
 
 ## 🔬 What Was Done
